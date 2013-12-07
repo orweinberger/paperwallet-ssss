@@ -8394,12 +8394,14 @@ body {
 #paperkeyarea {
   margin-top:20px;
   display:inline-block;
+  width:48%;
 }
 
 .commands {
   display:inline-block;
-  width:48%;
+  width:47%;
   vertical-align:top;
+  float:right;
 }
 
 #papersplit, #paperjoin, #paperjoinStart, #paperprint {
@@ -9207,7 +9209,7 @@ form input:focus {
   <div style="width:50%;margin:0 auto;background-color:#ccc;text-align:center;font-size:16px;">
     <div style="padding:10px;">
     This page generates a Bitcoin paper wallet based on <a href="http://en.wikipedia.org/wiki/Shamir's_Secret_Sharing">Shamir's Secret Sharing Scheme</a><br><br>
-    When generating the wallet you will receive 3 parts of a private key. You will be able to recover the wallet private key by using only 2 of the 3 private keys.<br><br>
+      When generating a wallet you receive 3 parts of the private key. Use any 2 parts of these to reconstruct the complete private key.<br><br>
     Use the buttons at the top of this page to either Generate or Recover a wallet.
     </div>
   </div>
