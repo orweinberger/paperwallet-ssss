@@ -9,3 +9,7 @@ The core is based on [bitaddress.org's code](https://github.com/pointbiz/bitaddr
 SSSS Implementation was done by [@gilgil](https://github.com/gilgil)
 
 
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/orweinberger/paperwallet-ssss/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
